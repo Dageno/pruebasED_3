@@ -1,3 +1,7 @@
+/**
+@author Juan Francisco Lucena Fernandez
+*/
+
 package pgn.poo.examenMarzo2017.jerarquiaFiguras;
 
 import pgn.poo.examenMarzo2017.estructuras.DimensionNoValidaException;
